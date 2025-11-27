@@ -24,11 +24,20 @@
 <br>
 <br>
 
-<div align="center">
-  <a href="https://alexispavon.vercel.app/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexispavon010&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexispavon010&layout=compact&langs_count=7&theme=nord"/>
-  </a>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=alexispavon010&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=alexispavon010&show_icons=true&count_private=true&theme=default">
+    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=alexispavon010&show_icons=true&count_private=true&theme=default" height="200px">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=alexispavon010&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=alexispavon010&layout=compact&langs_count=8&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=S4IL21&layout=compact&langs_count=8&theme=default" height="200px">
+  </picture>
+
 </div>
 
 <br>
