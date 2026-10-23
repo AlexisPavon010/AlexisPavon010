@@ -1,4 +1,10 @@
-![Portfolio](https://img.shields.io/badge/Portfolio-1d4ed8?style=for-the-badge&logo=googlechrome&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) ![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white)
+<div align="center">
+  <p>
+    <a href="https://alexispavon.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1d4ed8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+    <a href="https://www.linkedin.com/in/Alexispavon010/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:alexisuzielpavon@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
+</div>
 
 ## Sobre mí
 
@@ -19,11 +25,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Dónde ver mi trabajo
+## Mis trabajos
 
 
 | Proyecto                                                                        | Qué es                                                                        |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Portfolio](https://alexispavon.vercel.app) | Mi sitio personal, en español e inglés. Next.js, TypeScript y Tailwind.
+| [Portfolio](https://alexispavon.vercel.app) | Mi sitio personal, en Next.js, TypeScript y Tailwind.       |
+
 
 
