@@ -1,57 +1,29 @@
-## ¡Hola!, Soy Alexis Uziel Pavón
+![Portfolio](https://img.shields.io/badge/Portfolio-1d4ed8?style=for-the-badge&logo=googlechrome&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) ![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white)
+
+## Sobre mí
+
+- Desarrollador full stack con más de 4 años de experiencia. Desde 2024 en **Cuatro Carnes**, una plataforma Argentina de ecommerce de carnes: backend en NestJS(Node.js), paneles de administración en React y Next.js, e integraciones con servicios externos (WhatsApp y SMS, envíos de correos, PDF). El código es privado.
+- Un año como front-end con React en el sistema de ecomerce de venta de ropa **[Aneuswimwear](https://aneuswimwear.com)**.
+- Uso asistentes de IA (Claude Code, Cursor) en mis proyectos personales.
 
 
-<div>
-  Actualmente estudio desarrollo frontend y en estos momentos me encuentro aplicando mis conocimientos en el desarrollo de páginas web responsivas. Mi objetivo principal es   continuar aprendiendo para seguir formándome constantemente y desarrollarme profesionalmente.
-</div>
 
-<br>
+## Stack
 
-## Lenguajes y herramientas que utilizo
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<br>
-<br>
+## Dónde ver mi trabajo
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=alexispavon010&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=alexispavon010&show_icons=true&count_private=true&theme=default">
-    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=alexispavon010&show_icons=true&count_private=true&theme=default" height="200px">
-  </picture>
+| Proyecto                                                                        | Qué es                                                                        |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [Portfolio](https://alexispavon.vercel.app) | Mi sitio personal, en español e inglés. Next.js, TypeScript y Tailwind.
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=alexispavon010&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=alexispavon010&layout=compact&langs_count=8&theme=default">
-    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=S4IL21&layout=compact&langs_count=8&theme=default" height="200px">
-  </picture>
 
-</div>
-
-<br>
-
-## 📫 Podes encontrarme en
-<ul>
-  <li>
-    Web: <a href="https://alexispavon.vercel.app/">https://alexispavon.com</a>
-  </li>
-  <li>
-    Linkedin: 
-    <a href="https://www.linkedin.com/in/alexispavon010">https://www.linkedin.com/in/alexispavon010</a>
-  </li>
-  <li>
-    Gmail: <a href="mailto:alexisuzielpavon@gmail.com">alexisuzielpavon@gmail.com</a>
-  </li>
-</ul>
